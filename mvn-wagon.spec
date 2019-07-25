@@ -4,7 +4,7 @@
 #
 Name     : mvn-wagon
 Version  : 3.2.0
-Release  : 5
+Release  : 7
 URL      : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-http/3.2.0/wagon-http-3.2.0.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-http/3.2.0/wagon-http-3.2.0.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-file/3.2.0/wagon-file-3.2.0.jar
@@ -27,30 +27,39 @@ Source17  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider
 Source18  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.0/wagon-provider-api-2.0.pom
 Source19  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
 Source20  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
-Source21  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.7/wagon-provider-api-2.7.jar
-Source22  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.7/wagon-provider-api-2.7.pom
-Source23  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/3.2.0/wagon-provider-api-3.2.0.jar
-Source24  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/3.2.0/wagon-provider-api-3.2.0.pom
-Source25  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-providers/1.0-beta-7/wagon-providers-1.0-beta-7.pom
-Source26  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-providers/2.0/wagon-providers-2.0.pom
-Source27  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-providers/2.7/wagon-providers-2.7.pom
-Source28  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-providers/3.2.0/wagon-providers-3.2.0.pom
-Source29  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh-common/2.0/wagon-ssh-common-2.0.jar
-Source30  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh-common/2.0/wagon-ssh-common-2.0.pom
-Source31  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh/2.0/wagon-ssh-2.0.jar
-Source32  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh/2.0/wagon-ssh-2.0.pom
-Source33  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7/wagon-webdav-jackrabbit-1.0-beta-7.jar
-Source34  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7/wagon-webdav-jackrabbit-1.0-beta-7.pom
-Source35  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7/wagon-webdav-jackrabbit-2.7.jar
-Source36  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7/wagon-webdav-jackrabbit-2.7.pom
-Source37  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-2/wagon-1.0-beta-2.pom
-Source38  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
-Source39  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-7/wagon-1.0-beta-7.pom
-Source40  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/1.0/wagon-1.0.pom
-Source41  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/2.0/wagon-2.0.pom
-Source42  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
-Source43  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/2.7/wagon-2.7.pom
-Source44  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/3.2.0/wagon-3.2.0.pom
+Source21  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.4/wagon-provider-api-2.4.jar
+Source22  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.4/wagon-provider-api-2.4.pom
+Source23  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.7/wagon-provider-api-2.7.jar
+Source24  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.7/wagon-provider-api-2.7.pom
+Source25  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/3.2.0/wagon-provider-api-3.2.0.jar
+Source26  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-provider-api/3.2.0/wagon-provider-api-3.2.0.pom
+Source27  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-providers/1.0-beta-7/wagon-providers-1.0-beta-7.pom
+Source28  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-providers/2.0/wagon-providers-2.0.pom
+Source29  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-providers/2.4/wagon-providers-2.4.pom
+Source30  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-providers/2.7/wagon-providers-2.7.pom
+Source31  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-providers/3.2.0/wagon-providers-3.2.0.pom
+Source32  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh-common/2.0/wagon-ssh-common-2.0.jar
+Source33  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh-common/2.0/wagon-ssh-common-2.0.pom
+Source34  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh-common/2.4/wagon-ssh-common-2.4.jar
+Source35  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh-common/2.4/wagon-ssh-common-2.4.pom
+Source36  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh/2.0/wagon-ssh-2.0.jar
+Source37  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh/2.0/wagon-ssh-2.0.pom
+Source38  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh/2.4/wagon-ssh-2.4.jar
+Source39  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ssh/2.4/wagon-ssh-2.4.pom
+Source40  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7/wagon-webdav-jackrabbit-1.0-beta-7.jar
+Source41  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7/wagon-webdav-jackrabbit-1.0-beta-7.pom
+Source42  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7/wagon-webdav-jackrabbit-2.7.jar
+Source43  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7/wagon-webdav-jackrabbit-2.7.pom
+Source44  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/1.0-alpha-6/wagon-1.0-alpha-6.pom
+Source45  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-2/wagon-1.0-beta-2.pom
+Source46  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
+Source47  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-7/wagon-1.0-beta-7.pom
+Source48  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/1.0/wagon-1.0.pom
+Source49  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/2.0/wagon-2.0.pom
+Source50  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+Source51  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/2.4/wagon-2.4.pom
+Source52  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/2.7/wagon-2.7.pom
+Source53  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon/3.2.0/wagon-3.2.0.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0
@@ -73,139 +82,166 @@ data components for the mvn-wagon package.
 
 %install
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http/3.2.0
-cp %{SOURCE0} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http/3.2.0/wagon-http-3.2.0.jar
+cp %{SOURCE0} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http/3.2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-file/3.2.0
-cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-file/3.2.0/wagon-file-3.2.0.jar
+cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-file/3.2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-file/3.2.0
-cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-file/3.2.0/wagon-file-3.2.0.pom
+cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-file/3.2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0-beta-7
-cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0-beta-7/wagon-http-shared-1.0-beta-7.jar
+cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0-beta-7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0-beta-7
-cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0-beta-7/wagon-http-shared-1.0-beta-7.pom
+cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0-beta-7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/2.7
-cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/2.7/wagon-http-shared-2.7.jar
+cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/2.7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/2.7
-cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/2.7/wagon-http-shared-2.7.pom
+cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http-shared/2.7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http/3.2.0
-cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http/3.2.0/wagon-http-3.2.0-shaded.jar
+cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http/3.2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http/3.2.0
-cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http/3.2.0/wagon-http-3.2.0.pom
+cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-http/3.2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2
-cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.jar
+cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2
-cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.pom
+cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6
-cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.jar
+cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6
-cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.pom
+cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-7
-cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-7/wagon-provider-api-1.0-beta-7.jar
+cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-7
-cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-7/wagon-provider-api-1.0-beta-7.pom
+cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0
-cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0/wagon-provider-api-1.0.jar
+cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0
-cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0/wagon-provider-api-1.0.pom
+cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/1.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.0
-cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.0/wagon-provider-api-2.0.jar
+cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.0
-cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.0/wagon-provider-api-2.0.pom
+cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.10
-cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
+cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.10
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.10
-cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
+cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.10
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.4
+cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.4
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.4
+cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.4
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.7
-cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.7/wagon-provider-api-2.7.jar
+cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.7
-cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.7/wagon-provider-api-2.7.pom
+cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/3.2.0
-cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/3.2.0/wagon-provider-api-3.2.0.jar
+cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/3.2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/3.2.0
-cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/3.2.0/wagon-provider-api-3.2.0.pom
+cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/3.2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/1.0-beta-7
-cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/1.0-beta-7/wagon-providers-1.0-beta-7.pom
+cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/1.0-beta-7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.0
-cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.0/wagon-providers-2.0.pom
+cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.0
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.4
+cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.4
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.7
-cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.7/wagon-providers-2.7.pom
+cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/3.2.0
-cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/3.2.0/wagon-providers-3.2.0.pom
+cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/3.2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.0
-cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.0/wagon-ssh-common-2.0.jar
+cp %{SOURCE32} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.0
-cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.0/wagon-ssh-common-2.0.pom
+cp %{SOURCE33} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.0
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.4
+cp %{SOURCE34} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.4
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.4
+cp %{SOURCE35} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.4
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.0
-cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.0/wagon-ssh-2.0.jar
+cp %{SOURCE36} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.0
-cp %{SOURCE32} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.0/wagon-ssh-2.0.pom
+cp %{SOURCE37} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.0
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.4
+cp %{SOURCE38} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.4
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.4
+cp %{SOURCE39} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.4
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7
-cp %{SOURCE33} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7/wagon-webdav-jackrabbit-1.0-beta-7.jar
+cp %{SOURCE40} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7
-cp %{SOURCE34} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7/wagon-webdav-jackrabbit-1.0-beta-7.pom
+cp %{SOURCE41} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7
-cp %{SOURCE35} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7/wagon-webdav-jackrabbit-2.7.jar
+cp %{SOURCE42} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7
-cp %{SOURCE36} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7/wagon-webdav-jackrabbit-2.7.pom
+cp %{SOURCE43} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-alpha-6
+cp %{SOURCE44} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-alpha-6
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-2
-cp %{SOURCE37} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-2/wagon-1.0-beta-2.pom
+cp %{SOURCE45} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-2
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-6
-cp %{SOURCE38} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
+cp %{SOURCE46} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-6
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-7
-cp %{SOURCE39} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-7/wagon-1.0-beta-7.pom
+cp %{SOURCE47} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0
-cp %{SOURCE40} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0/wagon-1.0.pom
+cp %{SOURCE48} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.0
-cp %{SOURCE41} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.0/wagon-2.0.pom
+cp %{SOURCE49} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.0
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.10
-cp %{SOURCE42} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+cp %{SOURCE50} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.10
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.4
+cp %{SOURCE51} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.4
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.7
-cp %{SOURCE43} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.7/wagon-2.7.pom
+cp %{SOURCE52} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.7
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/3.2.0
-cp %{SOURCE44} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/3.2.0/wagon-3.2.0.pom
+cp %{SOURCE53} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/3.2.0
 
 
 %files
@@ -234,27 +270,36 @@ cp %{SOURCE44} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/wagon
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.0/wagon-provider-api-2.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
+/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.4/wagon-provider-api-2.4.jar
+/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.4/wagon-provider-api-2.4.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.7/wagon-provider-api-2.7.jar
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/2.7/wagon-provider-api-2.7.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/3.2.0/wagon-provider-api-3.2.0.jar
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-provider-api/3.2.0/wagon-provider-api-3.2.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/1.0-beta-7/wagon-providers-1.0-beta-7.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.0/wagon-providers-2.0.pom
+/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.4/wagon-providers-2.4.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/2.7/wagon-providers-2.7.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-providers/3.2.0/wagon-providers-3.2.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.0/wagon-ssh-common-2.0.jar
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.0/wagon-ssh-common-2.0.pom
+/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.4/wagon-ssh-common-2.4.jar
+/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh-common/2.4/wagon-ssh-common-2.4.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.0/wagon-ssh-2.0.jar
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.0/wagon-ssh-2.0.pom
+/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.4/wagon-ssh-2.4.jar
+/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-ssh/2.4/wagon-ssh-2.4.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7/wagon-webdav-jackrabbit-1.0-beta-7.jar
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/1.0-beta-7/wagon-webdav-jackrabbit-1.0-beta-7.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7/wagon-webdav-jackrabbit-2.7.jar
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon-webdav-jackrabbit/2.7/wagon-webdav-jackrabbit-2.7.pom
+/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-alpha-6/wagon-1.0-alpha-6.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-2/wagon-1.0-beta-2.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0-beta-7/wagon-1.0-beta-7.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/1.0/wagon-1.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.0/wagon-2.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+/usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.4/wagon-2.4.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/2.7/wagon-2.7.pom
 /usr/share/java/.m2/repository/org/apache/maven/wagon/wagon/3.2.0/wagon-3.2.0.pom
