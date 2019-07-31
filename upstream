@@ -7,6 +7,8 @@ ad1c0ccef204faf922108b2047b561d00ee114d3/wagon-file-3.2.0.pom
 58d6ec7d14309d3889d7bdda5d6b20c1cb40fa4f/wagon-http-shared-2.7.pom
 affa8471c341b8d39f097ae736b3cc13e6c8077c/wagon-http-3.2.0-shaded.jar
 ca65ca1f3bb36d478ab75dd53697527257cb8f37/wagon-http-3.2.0.pom
+b3c986c63fc873fbaef75ad4e57cd162fd5c9dd6/wagon-provider-api-1.0-alpha-6.jar
+1c1add559b9ed89168c2ae447481cfb63937ce2f/wagon-provider-api-1.0-alpha-6.pom
 abd1c9ace6e87c94a4b91f5176aeb09d954b23a3/wagon-provider-api-1.0-beta-2.jar
 8b3013d0754edbeb694831ddf1c5d1a0019ee042/wagon-provider-api-1.0-beta-2.pom
 3f952e0282ae77ae59851d96bb18015e520b6208/wagon-provider-api-1.0-beta-6.jar
@@ -42,6 +44,7 @@ d3864be3273af9acdb284a90bf3df38575cacb6d/wagon-webdav-jackrabbit-1.0-beta-7.jar
 584c28f3ee042ff2bd7c0aeb8a0437e28b5aa9f6/wagon-webdav-jackrabbit-1.0-beta-7.pom
 f9d5aad91c5a793b90658a9a807300c81cdf4561/wagon-webdav-jackrabbit-2.7.jar
 b50da345ab381e31464a6545d7dc550e6867cc6c/wagon-webdav-jackrabbit-2.7.pom
+69aa7db6cd9b32c6026dfb3d77d6a6865a2a9fc3/wagon-1.0-alpha-6.pom
 69aa7db6cd9b32c6026dfb3d77d6a6865a2a9fc3/wagon-1.0-alpha-6.pom
 6cf8a47018be792d2b1774d2bacd7541c888ae50/wagon-1.0-beta-2.pom
 0a5a7966afb1b64f97c2f3f23a3e80592dc94986/wagon-1.0-beta-6.pom
@@ -105,3 +108,6 @@ b24e47819a91f8066949e315551bb024cd1f58a8/wagon-ssh-common-2.4.jar
 e21f5961dced2436e175fba401f876422c2165c1/wagon-2.4.pom
 69aa7db6cd9b32c6026dfb3d77d6a6865a2a9fc3/wagon-1.0-alpha-6.pom
 47b714046c872fa7256f1ab1b45faf2a74ca410b/wagon-providers-2.4.pom
+b3c986c63fc873fbaef75ad4e57cd162fd5c9dd6/wagon-provider-api-1.0-alpha-6.jar
+1c1add559b9ed89168c2ae447481cfb63937ce2f/wagon-provider-api-1.0-alpha-6.pom
+69aa7db6cd9b32c6026dfb3d77d6a6865a2a9fc3/wagon-1.0-alpha-6.pom
