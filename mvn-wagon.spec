@@ -4,7 +4,7 @@
 #
 Name     : mvn-wagon
 Version  : 3.2.0
-Release  : 10
+Release  : 11
 URL      : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-http/3.2.0/wagon-http-3.2.0.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-http/3.2.0/wagon-http-3.2.0.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-file/2.4/wagon-file-2.4.jar
